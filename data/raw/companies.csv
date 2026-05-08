@@ -1,0 +1,201 @@
+company_id,company_name,hq_country,employee_count_est,founded_year,glassdoor_rating
+1,Orion Labs GmbH,Germany,28361,2004,2.6
+2,Orion Labs Inc,India,14963,1998,2.8
+3,Stellar Data LLP,Singapore,18273,1996,3.8
+4,Green AI GmbH,France,45129,1980,4.6
+5,Delta Tech LLP,India,26601,1986,3.0
+6,Solar Dynamics GmbH,Australia,45344,2010,3.4
+7,Green Solutions Inc,UAE,20383,1999,3.8
+8,Arc Dynamics LLP,India,5546,2017,4.0
+9,Zen Solutions Ltd,Australia,39836,1987,4.2
+10,Blue Works Pvt Ltd,UAE,27396,2022,3.2
+11,Magna Dynamics Pvt Ltd,India,209,2008,3.3
+12,Green Tech LLP,India,44166,2007,4.6
+13,Blue Solutions Pvt Ltd,UK,35637,1995,4.7
+14,Vertex Labs Pvt Ltd,Netherlands,15590,1991,3.4
+15,Sigma Networks Ltd,Netherlands,17497,2011,4.9
+16,Zen Data Inc,UK,11404,2018,2.8
+17,Magna Dynamics Ltd,USA,616,2005,4.5
+18,Apex Labs GmbH,Canada,44946,2015,4.7
+19,Delta Solutions Pvt Ltd,UK,40959,2002,3.8
+20,Quantum Dynamics Inc,France,35437,1997,4.1
+21,Delta Tech GmbH,Australia,16736,1983,2.6
+22,Crest Works Corp,UK,29679,2005,4.5
+23,Orion Networks Ltd,USA,9485,1986,4.1
+24,Prime AI Corp,France,17250,1986,3.8
+25,Sigma Data Pvt Ltd,UK,1603,1986,3.9
+26,Blue Dynamics GmbH,France,26063,1992,2.8
+27,Prime Works Corp,France,40061,2009,4.5
+28,Magna Works LLP,USA,19049,2002,3.7
+29,Crest Data Inc,Singapore,20833,2001,3.9
+30,Rapid Tech Ltd,Canada,33403,1990,2.8
+31,Nimbus AI Ltd,Netherlands,36522,1990,4.0
+32,Green AI LLP,UAE,39551,1983,3.0
+33,Fusion Works Inc,UAE,36200,1997,4.3
+34,Solar Tech GmbH,Germany,41685,2016,2.5
+35,Quantum Data GmbH,UK,40631,2001,2.7
+36,Prime Systems LLP,Netherlands,10429,2011,2.9
+37,Zen Labs Ltd,Australia,24432,2020,3.4
+38,Arc Solutions Ltd,Australia,9314,2005,4.6
+39,Quantum Labs LLP,Australia,324,1993,2.4
+40,Rapid Tech GmbH,France,30395,1989,3.8
+41,Alpha AI LLP,UK,36941,1996,2.5
+42,Rapid Labs Pvt Ltd,Australia,47343,1989,3.3
+43,Solar Analytics GmbH,France,38882,1999,3.1
+44,Apex Works Corp,Germany,7371,1993,2.8
+45,Stellar Works Corp,Singapore,15540,2013,3.6
+46,Prime Solutions Pvt Ltd,Singapore,32665,2010,3.3
+47,Nimbus Solutions Pvt Ltd,Netherlands,37442,1997,3.1
+48,Nova Dynamics GmbH,Germany,35181,1990,3.9
+49,Delta AI GmbH,Netherlands,2910,2001,3.0
+50,Nimbus Labs GmbH,France,27540,1980,4.8
+51,Sigma Analytics Corp,Singapore,30631,1988,3.0
+52,Alpha Dynamics Corp,UAE,14160,2015,4.9
+53,Quantum Dynamics Corp,Singapore,5111,2013,2.8
+54,Apex Analytics LLP,Australia,40288,2006,4.8
+55,Rapid Labs Ltd,UAE,12632,2014,2.6
+56,Arc Solutions LLP,India,6013,2021,2.4
+57,Apex Tech Inc,Canada,14380,2020,2.6
+58,Magna Systems Inc,India,23669,2017,4.2
+59,Magna Data Corp,UK,38099,1998,3.0
+60,Solar Labs Inc,Australia,38636,1998,3.1
+61,Quantum AI Corp,UAE,42097,1999,4.1
+62,Blue Tech GmbH,Singapore,27052,2016,2.5
+63,Magna Analytics GmbH,France,13987,2004,3.8
+64,Blue Dynamics Corp,Canada,48676,2011,3.4
+65,Fusion Systems Inc,Canada,24256,1980,2.8
+66,Nimbus Labs Ltd,India,32230,2017,4.7
+67,Vertex Analytics Ltd,UK,14307,1995,3.3
+68,Solar Networks LLP,USA,45059,2018,3.1
+69,Sigma Systems Inc,France,35109,2014,4.1
+70,Arc Data Corp,Australia,48371,1985,4.5
+71,Vertex AI Pvt Ltd,Netherlands,41174,2020,3.0
+72,Arc Data Inc,India,16354,2020,2.7
+73,Arc Dynamics Corp,Canada,458,2009,4.8
+74,Arc Dynamics GmbH,Canada,36166,1990,3.5
+75,Alpha Works Ltd,India,35366,2009,3.7
+76,Crest Labs LLP,India,25255,2016,3.5
+77,Green Dynamics Pvt Ltd,USA,26155,2010,4.5
+78,Vertex Labs LLP,UK,9384,2010,3.5
+79,Magna Tech Pvt Ltd,Canada,4928,1990,4.3
+80,Sigma Tech Corp,UAE,9036,1983,3.7
+81,Rapid Systems Inc,UAE,17407,2006,2.6
+82,Stellar Data Ltd,France,37799,1985,3.7
+83,Nova Dynamics LLP,UAE,41358,1997,4.5
+84,Alpha Tech Pvt Ltd,USA,13746,2008,3.7
+85,Blue Networks Ltd,France,44861,1984,3.4
+86,Zen Networks Corp,Australia,19171,2009,2.5
+87,Apex Data Inc,Singapore,29811,1980,4.2
+88,Alpha AI Corp,France,3991,2002,3.4
+89,Crest Analytics Corp,Germany,15034,2018,3.2
+90,Magna Tech LLP,Netherlands,39387,1997,3.3
+91,Solar Dynamics Pvt Ltd,UAE,40100,1982,3.4
+92,Green Systems LLP,UK,21141,1981,3.2
+93,Fusion AI LLP,Singapore,41611,2020,3.1
+94,Green Dynamics LLP,India,4732,1981,3.6
+95,Blue Labs Pvt Ltd,USA,38026,2017,2.5
+96,Nova Networks Ltd,Australia,33938,1984,3.0
+97,Nova AI LLP,Singapore,32252,2015,3.5
+98,Apex Networks Pvt Ltd,Canada,6454,2015,4.6
+99,Rapid Dynamics GmbH,Australia,40434,2000,3.5
+100,Quantum Labs Corp,USA,23044,2011,3.8
+101,Nova Tech GmbH,UAE,40356,2004,4.6
+102,Orion Tech Ltd,Australia,555,1981,4.4
+103,Nimbus Systems LLP,Germany,25765,1987,4.2
+104,Orion Dynamics Corp,France,40491,2005,3.9
+105,Arc Tech Pvt Ltd,UK,5272,1986,3.9
+106,Quantum Labs Inc,Australia,42418,2021,2.9
+107,Alpha Systems GmbH,Singapore,19826,1984,2.7
+108,Sigma Systems Corp,Singapore,32367,1980,2.5
+109,Fusion Dynamics Ltd,USA,41035,2010,2.6
+110,Zen Systems Pvt Ltd,Canada,12411,1998,3.9
+111,Stellar AI Ltd,Germany,43486,1980,3.9
+112,Fusion Data Ltd,France,43377,1991,2.5
+113,Magna Data Inc,Canada,40805,2000,4.5
+114,Sigma Networks GmbH,Singapore,6695,2019,3.5
+115,Sigma Analytics Pvt Ltd,UAE,3119,2007,3.7
+116,Delta Labs Inc,India,25403,2013,2.6
+117,Zen Solutions Pvt Ltd,Canada,24005,1982,4.5
+118,Sigma Data Ltd,UAE,27942,2010,2.6
+119,Crest Works Pvt Ltd,Singapore,17751,2015,2.9
+120,Solar Systems LLP,Singapore,21826,2011,3.6
+121,Solar Tech Pvt Ltd,Australia,3309,1984,3.6
+122,Fusion Dynamics LLP,India,42311,1988,3.7
+123,Green Networks Corp,France,7824,1999,4.7
+124,Stellar Dynamics Inc,Germany,12317,1981,2.5
+125,Magna Labs Ltd,UK,43625,2010,4.1
+126,Delta Tech Inc,Canada,49783,1984,3.5
+127,Nova AI Ltd,USA,33229,1986,4.4
+128,Crest AI Ltd,Canada,1560,2010,4.1
+129,Delta Data Pvt Ltd,Singapore,3049,1987,4.4
+130,Prime Solutions GmbH,Netherlands,2487,2007,4.6
+131,Nova Solutions Inc,France,1087,2006,4.4
+132,Blue Analytics Corp,Singapore,13493,1989,2.7
+133,Alpha Data GmbH,India,3781,2008,3.7
+134,Vertex Analytics Inc,India,14907,2020,4.3
+135,Apex Networks Inc,UK,26812,2022,4.3
+136,Zen AI Inc,India,36445,2018,4.7
+137,Nova Systems Corp,Germany,22296,1988,3.4
+138,Nova Systems GmbH,UK,48150,2016,2.4
+139,Delta Systems GmbH,Canada,45364,1990,4.2
+140,Vertex Works GmbH,Australia,16526,2010,3.1
+141,Nimbus Networks Inc,Netherlands,31961,2001,4.0
+142,Arc Analytics Ltd,Germany,28397,2011,2.5
+143,Orion Solutions Inc,Singapore,28222,2005,3.3
+144,Sigma Works Pvt Ltd,France,30914,1985,4.0
+145,Delta Dynamics Ltd,USA,18000,2010,2.7
+146,Nimbus Systems Inc,Netherlands,34188,2011,3.2
+147,Quantum Dynamics Ltd,Canada,2532,2008,2.8
+148,Solar Networks GmbH,Germany,19130,1999,4.6
+149,Stellar Solutions LLP,France,26948,2014,4.3
+150,Fusion Networks Inc,India,31746,2009,4.0
+151,Quantum Labs GmbH,Canada,37129,2003,3.7
+152,Prime Works Ltd,Netherlands,38601,2003,4.8
+153,Rapid Systems Ltd,USA,18485,2003,3.0
+154,Delta AI Inc,UAE,6113,2021,4.2
+155,Stellar Solutions Pvt Ltd,Netherlands,49927,1982,2.6
+156,Crest Tech Corp,UK,26595,1998,4.0
+157,Zen Analytics Inc,Canada,24462,1993,2.9
+158,Prime Networks Corp,Germany,29604,1986,2.4
+159,Stellar Solutions Ltd,Canada,2787,1988,4.7
+160,Crest Analytics GmbH,Australia,40774,1996,3.1
+161,Solar Data Pvt Ltd,Netherlands,46511,1986,4.9
+162,Prime Labs LLP,France,20571,2006,4.1
+163,Vertex AI Corp,Netherlands,4959,2004,4.1
+164,Solar Data GmbH,USA,36279,2017,4.1
+165,Vertex Works LLP,Germany,37221,1992,4.9
+166,Blue AI Corp,Netherlands,11205,1981,3.0
+167,Arc Dynamics Pvt Ltd,India,3346,1988,4.9
+168,Rapid Dynamics Ltd,USA,46420,1988,3.2
+169,Delta Data Corp,UK,3937,2018,2.6
+170,Fusion Labs Inc,Germany,25644,2021,4.7
+171,Crest Systems Corp,India,6553,1985,2.6
+172,Vertex Systems Ltd,France,46948,2012,3.6
+173,Green Data GmbH,Australia,3615,2004,4.5
+174,Magna Labs LLP,Germany,29077,2001,3.1
+175,Magna Data GmbH,USA,39502,1990,4.2
+176,Stellar Dynamics LLP,India,6272,2012,4.0
+177,Alpha Dynamics Inc,Netherlands,41721,1998,4.1
+178,Vertex Solutions Ltd,France,12394,2018,2.8
+179,Nova Systems LLP,France,13231,2005,4.2
+180,Zen Data Ltd,UK,4530,1990,4.5
+181,Orion Solutions LLP,UAE,26059,1999,2.8
+182,Arc AI LLP,UK,36980,2003,4.8
+183,Quantum Tech Pvt Ltd,Canada,46339,1986,4.8
+184,Nova Works GmbH,UAE,1038,1996,3.2
+185,Apex Labs Ltd,Canada,23939,1988,4.8
+186,Green Dynamics GmbH,Germany,40140,1993,4.7
+187,Prime Networks Pvt Ltd,India,37707,1987,2.7
+188,Green Dynamics Ltd,USA,27084,2020,4.3
+189,Sigma Tech LLP,India,28825,1997,4.8
+190,Nimbus Data Corp,USA,28660,1982,4.5
+191,Alpha Solutions Inc,Singapore,5021,1980,2.7
+192,Green Data Corp,USA,23474,1985,3.4
+193,Crest Data Corp,Australia,10088,1989,3.8
+194,Vertex Works Inc,Netherlands,38812,2016,3.3
+195,Green Works LLP,Canada,2670,1995,3.4
+196,Zen Works Pvt Ltd,France,10050,2013,2.6
+197,Nova Analytics Ltd,Germany,22577,1995,2.4
+198,Arc Systems GmbH,Germany,24495,1998,3.2
+199,Blue Works Ltd,Netherlands,46952,1980,3.5
+200,Zen Solutions Inc,UAE,39090,1987,3.8
